@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "query-string": "^4.3.2",
     "winston": "^2.3.1"
   }
 }
